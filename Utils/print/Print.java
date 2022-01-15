@@ -1,7 +1,7 @@
 package print;/**
- * @Author: 李云鹏
- * @Date: 2021/6/4 15:20
- * @Version: 1.0
+ * Author: 李云鹏
+ * Date: 2021/6/4 15:20
+ * Version: 1.0
  */
 
 public class Print{ //打印类，方便打印各种矩阵
@@ -35,6 +35,7 @@ public class Print{ //打印类，方便打印各种矩阵
             }
             System.out.println();
             //master test
+            System.out.println("hotFix test");
         }
     }
 }
