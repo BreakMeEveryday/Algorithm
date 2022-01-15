@@ -35,7 +35,6 @@ public class Print{ //打印类，方便打印各种矩阵
                 System.out.print(arr[i][j]+" ");
             }
             System.out.println();
-            System.out.println("hello");
         }
     }
 }
