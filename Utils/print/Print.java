@@ -35,7 +35,7 @@ public class Print{ //打印类，方便打印各种矩阵
             }
             System.out.println();
             //master test
-            System.out.println("hotFix test");
+            System.out.println("");
         }
     }
 }
